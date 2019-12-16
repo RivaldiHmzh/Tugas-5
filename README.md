@@ -1,1 +1,3 @@
-# Tugas-5
+![1](https://user-images.githubusercontent.com/56198396/70919621-c2c0a180-2053-11ea-96a0-89d7dbfeaeab.JPG)
+
+User diarahkan untuk memilih antara tambah data, lihat data, ubah data, hapus data atau keluar dari perulangan tersebut, jika user memilih tambah data, maka user akan menginput data nama, nim, nilai tugas, nilai uts dan nilai uas, jika user memilih untuk melihat data, maka akan muncul ouput list data yg tadi di input, jika user memilih ubah data, maka user akan di suruh merubah data dengan memasukan nama yg tadi di input, jika user memilih hapus data, maka data yg tadi akan di hapus dengan menginput nama yang ada di data tadi.
